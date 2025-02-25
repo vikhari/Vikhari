@@ -1,6 +1,6 @@
 ### 🐱‍💻
 
-- D3FEND team member (Apr 2021 - Oct 2021) and currently working on submitting zero-trust concepts to improve the state of the art of zero-trust architectures
+- D3FEND team member (Apr 2021 - Oct 2021) and currently working on submitting more IAM and zero-trust concepts
 - Stood up & ran [CASE](https://github.com/casework) and its Adoption Committee from Sep 2017 - Oct 2020
 - Interested in automating things but thinks a balance needs to be struck between defaults and customization (see my [defaults](https://github.com/vikhari/DEFAULTS))
 - Performed research in approximate matching (A.K.A. similarity hashing): [M.S. thesis](https://github.com/vikhari/Sim-Find)
