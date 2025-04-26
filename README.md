@@ -2,7 +2,7 @@
 
 This hacker cat has had a variety of experiences, starting in DFIR, transitioning to CyberFX/Deception, going deep into Ontology, and ending up in IAM (current role).
 However, here are some highlights that relate to what you can find on GitHub:
-- [D3FEND](https://github.com/d3fend) team member (Apr 2021 - Oct 2021) and currently working on submitting more concepts
+- [D3FEND](https://github.com/d3fend) team member (Apr 2021 - Oct 2021) and still working on [issues](https://github.com/d3fend/d3fend-ontology/issues?q=is%3Aissue%20state%3Aopen%20author%3Avikhari%20) and [PRs](https://github.com/d3fend/d3fend-ontology/pulls/vikhari)
 - Stood up & ran [CASE](https://github.com/casework) and its Adoption Committee from Sep 2017 - Oct 2020
 - Interested in automating things but thinks a balance needs to be struck between defaults and customization (see my [DEFAULTS](https://github.com/vikhari/DEFAULTS))
 - Performed research in approximate matching (A.K.A. similarity hashing): [M.S. thesis](https://github.com/vikhari/Sim-Find)
